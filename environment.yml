@@ -5,7 +5,7 @@ dependencies:
   - python
   - Cython
   - SimPEG==0.17.0
-  - geoana==0.1.2
+  - geoana==0.3.0
   - nbgitpuller
   - numpy==1.19.5
   - scipy==1.5.2
