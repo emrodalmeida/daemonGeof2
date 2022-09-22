@@ -2,7 +2,7 @@ name: igufu32706
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python==3.8
   - Cython
   - SimPEG==0.17.0
   - geoana==0.3.0
